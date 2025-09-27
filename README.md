@@ -6,14 +6,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasinisooorige&label=Profile%20views&color=0e75b6&style=flat" alt="hasinisooorige" /> </p>
 
 <hr/>
+<!--- Connect with me -->
+### Connect with me 🔗 :
+<br/>
+<p align='left'>
+<a href="mailto:hasinirsoorige9845@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>&nbsp;&nbsp;
 
-- 📫 How to reach me **hasinirsoorige9845@gmail.com**
-Connect Link
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/hasiniruwanthikasoorige" target="blank"><img align="center" src="assets/Linkedin-Logo.png" alt="hasiniruwanthikasoorige" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/i-am-hasini-ruwanthika-soorige" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
+
+<hr/>
+
+<!--- Skills -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -63,15 +70,6 @@ Connect Link
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<!-- <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div> -->
-<!--- trophy (start) -->
 
 
 </p>        
