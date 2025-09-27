@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hasini Ruwanthika</h1>
-<h3 align="center">“A dedicated Software Engineer specializing in Full-Stack Web Development”</h3>
-<img src="[https://komarev.com/ghpvc/?username=hasinisooorige&label=Profile%20views&color=0e75b6&style=flat](https://drive.google.com/drive/home)" alt="hasinisooorige" />
+<!-- <h1 align="center">Hi 👋, I'm Hasini Ruwanthika</h1>
+<h3 align="center">“A dedicated Software Engineer specializing in Full-Stack Web Development”</h3> -->
+<img src="assets/I’m Hasini Ruwanthika.png" alt="hasinisooorige" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasinisooorige&label=Profile%20views&color=0e75b6&style=flat" alt="hasinisooorige" /> </p>
-
+<hr/>
 - 📫 How to reach me **hasinirsoorige9845@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,6 +37,40 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
+
+------
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hasinisooorige&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hasinisooorige&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hasinisooorige&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<!-- <div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div> -->
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasinisooorige&show_icons=true&locale=en&layout=compact" alt="hasinisooorige" /></p>
 
