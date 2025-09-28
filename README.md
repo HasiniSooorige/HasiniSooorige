@@ -7,7 +7,7 @@
 
 <hr/>
 <!--- Connect with me -->
-### Connect with me 🔗 :
+<h3 align="left">Connect with me 🔗</h3>
 <br/>
 <p align='left'>
 <a href="mailto:hasinirsoorige9845@gmail.com" target="_blank">
