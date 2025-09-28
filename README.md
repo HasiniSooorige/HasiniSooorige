@@ -5,46 +5,10 @@
 <img src="assets/I’m Hasini Ruwanthika.png" alt="hasinisooorige" />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasinisooorige&label=Profile%20views&color=0e75b6&style=flat" alt="hasinisooorige" /> </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<!--- Connect with me -->
-<h3 align="left">Connect with me 🔗</h3>
-
-<p align='left'>
-<a href="mailto:hasinirsoorige9845@gmail.com" target="_blank"> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  &nbsp;&nbsp; hasinirsoorige9845@gmail.com
-</a>
-  &nbsp;&nbsp;
-<br/><br/>
-<a href="https://linkedin.com/in/i-am-hasini-ruwanthika-soorige" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-</p>
-
-<h3 align="left">Connect with me 🔗</h3>
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/i-am-hasini-ruwanthika-soorige" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-    <br><br>
-  <!-- Gmail -->
-  <a href="mailto:hasinirsoorige9845@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <span style="font-size:16px; margin-left:8px;">hasinirsoorige9845@gmail.com</span>
-</p>
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--- Skills -->
-
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -78,10 +42,11 @@
 
 </p>
 
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--- stats & Trophy (start) -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -100,13 +65,23 @@
   </td>
 </tr>
 </table>
-
-
 </p>        
-<!--- stats (end) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasinisooorige&show_icons=true&locale=en&layout=compact" alt="hasinisooorige" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasinisooorige&show_icons=true&locale=en" alt="hasinisooorige" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasinisooorige&" alt="hasinisooorige" /></p>
+<!--- Connect with me -->
+## 🔗<b> Connect with me </b>
+
+<br>
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/i-am-hasini-ruwanthika-soorige" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+    <br><br>
+  <!-- Gmail -->
+  <a href="mailto:hasinirsoorige9845@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  hasinirsoorige9845@gmail.com
+  </a>  
+</p>
