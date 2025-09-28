@@ -79,6 +79,10 @@
   <a href="https://linkedin.com/in/i-am-hasini-ruwanthika-soorige" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <!-- HackerRank -->
+<a href="https://www.hackerrank.com/profile/hasinirsoorige91" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
     <br><br>
   <!-- Gmail -->
   <a href="mailto:hasinirsoorige9845@gmail.com" target="_blank">
